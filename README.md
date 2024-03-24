@@ -24,4 +24,4 @@ To get started with these exercises:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/javascript-exercises.git
+   git clone https://github.com/Zumarepasha/javascript-exercises.git
